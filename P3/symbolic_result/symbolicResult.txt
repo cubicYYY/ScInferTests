@@ -1,0 +1,24 @@
+Node: n01 , Distribution: RUD
+Node: t1 , Distribution: SID
+Node: n04 , Distribution: RUD
+Node: t2 , Distribution: SID
+Node: t3 , Distribution: RUD
+Node: t4 , Distribution: RUD
+Node: n07 , Distribution: RUD
+Node: n08 , Distribution: RUD
+Node: n09 , Distribution: RUD
+Node: t5 , Distribution: SID
+Node: n12 , Distribution: RUD
+Node: t6 , Distribution: SID
+Node: n14 , Distribution: UKD
+Node: n03 , Distribution: RUD
+Node: n15 , Distribution: UKD
+Node: n11 , Distribution: RUD
+Node: n16 , Distribution: RUD
+Node: n17 , Distribution: RUD
+All node count is: 18
+RUD count: 12
+SID count: 4
+CST count: 0
+UKD count: 2
+Running time is : 0.173000ms

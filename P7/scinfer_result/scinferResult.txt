@@ -1,0 +1,22 @@
+Node: b1 , Distribution: RUD
+Node: b2 , Distribution: RUD
+Node: b3 , Distribution: RUD
+Node: n9 , Distribution: SID
+Node: n8 , Distribution: SID
+Node: n7 , Distribution: SID
+Node: n6 , Distribution: RUD
+Node: n5 , Distribution: SID
+Node: n4 , Distribution: SID
+Node: n3 , Distribution: RUD
+Node: n2 , Distribution: RUD
+Node: n1 , Distribution: NPM
+All node counts is: 12
+RUD count: 6
+SID count: 5
+CST count: 0
+NPM count: 1
+Node SMT check count: 2
+Semd time is: 47.353000ms
+Don't care time is: 23.531000ms
+SMT time is: 9.832000ms
+Total running time is: 80.868000ms

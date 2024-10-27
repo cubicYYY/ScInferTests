@@ -1,0 +1,18 @@
+Node: b1 , Distribution: RUD
+Node: b2 , Distribution: RUD
+Node: b3 , Distribution: RUD
+Node: n9 , Distribution: SID
+Node: n8 , Distribution: SID
+Node: n7 , Distribution: SID
+Node: n6 , Distribution: RUD
+Node: n5 , Distribution: UKD
+Node: n4 , Distribution: SID
+Node: n3 , Distribution: RUD
+Node: n2 , Distribution: RUD
+Node: n1 , Distribution: UKD
+All node count is: 12
+RUD count: 6
+SID count: 4
+CST count: 0
+UKD count: 2
+Running time is : 0.181000ms

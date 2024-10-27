@@ -1,0 +1,16 @@
+Node: n011 , Distribution: NPM
+Node: n012 , Distribution: RUD
+Node: n021 , Distribution: NPM
+Node: n022 , Distribution: RUD
+Node: n031 , Distribution: NPM
+Node: n032 , Distribution: RUD
+All node counts is: 6
+RUD count: 3
+SID count: 0
+CST count: 0
+NPM count: 3
+Node SMT check count: 3
+Semd time is: 0.001000ms
+Don't care time is: 0.002000ms
+SMT time is: 15.646000ms
+Total running time is: 15.800000ms

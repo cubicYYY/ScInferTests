@@ -1,0 +1,26 @@
+Node: n01 , Distribution: SID
+Node: t1 , Distribution: SID
+Node: n04 , Distribution: SID
+Node: t2 , Distribution: SID
+Node: t3 , Distribution: SID
+Node: t4 , Distribution: SID
+Node: n07 , Distribution: SID
+Node: n08 , Distribution: SID
+Node: n09 , Distribution: SID
+Node: t5 , Distribution: SID
+Node: n12 , Distribution: SID
+Node: t6 , Distribution: SID
+Node: n14 , Distribution: NPM
+Node: n03 , Distribution: SID
+Node: n15 , Distribution: NPM
+Node: n11 , Distribution: SID
+Node: n16 , Distribution: SID
+Node: n17 , Distribution: SID
+All node count is: 18
+RUD count: 0
+SID count: 16
+CST count: 0
+NPM count: 2
+UKD count: 0
+Node SMT check count: 2
+Running time is : 30.259000ms

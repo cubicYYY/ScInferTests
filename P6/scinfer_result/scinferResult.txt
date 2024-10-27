@@ -1,0 +1,13 @@
+Node: n3 , Distribution: NPM
+Node: n2 , Distribution: NPM
+Node: n1 , Distribution: NPM
+All node counts is: 3
+RUD count: 0
+SID count: 0
+CST count: 0
+NPM count: 3
+Node SMT check count: 3
+Semd time is: 0.002000ms
+Don't care time is: 0.000000ms
+SMT time is: 15.568000ms
+Total running time is: 15.760000ms

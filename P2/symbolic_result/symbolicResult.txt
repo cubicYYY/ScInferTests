@@ -1,0 +1,36 @@
+Node: n01 , Distribution: RUD
+Node: m_t1 , Distribution: SID
+Node: t1 , Distribution: RUD
+Node: n04 , Distribution: RUD
+Node: m_t2 , Distribution: SID
+Node: t2 , Distribution: RUD
+Node: m_t3 , Distribution: RUD
+Node: t3 , Distribution: RUD
+Node: m_t4 , Distribution: RUD
+Node: t4 , Distribution: RUD
+Node: n07 , Distribution: RUD
+Node: n08 , Distribution: RUD
+Node: n09 , Distribution: RUD
+Node: m_t5 , Distribution: SID
+Node: t5 , Distribution: RUD
+Node: n12 , Distribution: RUD
+Node: m_t6 , Distribution: SID
+Node: t6 , Distribution: RUD
+Node: temp1 , Distribution: UKD
+Node: n14 , Distribution: UKD
+Node: temp2 , Distribution: UKD
+Node: n15 , Distribution: UKD
+Node: temp3 , Distribution: UKD
+Node: n11 , Distribution: UKD
+Node: temp4 , Distribution: UKD
+Node: n03 , Distribution: UKD
+Node: temp5 , Distribution: RUD
+Node: n16 , Distribution: RUD
+Node: temp6 , Distribution: UKD
+Node: n17 , Distribution: UKD
+All node count is: 30
+RUD count: 16
+SID count: 4
+CST count: 0
+UKD count: 10
+Running time is : 0.239000ms

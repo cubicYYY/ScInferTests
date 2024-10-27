@@ -1,0 +1,40 @@
+Node: n01 , Distribution: RUD
+Node: m_t1 , Distribution: SID
+Node: t1 , Distribution: RUD
+Node: n04 , Distribution: RUD
+Node: m_t2 , Distribution: SID
+Node: t2 , Distribution: RUD
+Node: m_t3 , Distribution: RUD
+Node: t3 , Distribution: RUD
+Node: m_t4 , Distribution: RUD
+Node: t4 , Distribution: RUD
+Node: n07 , Distribution: RUD
+Node: n08 , Distribution: RUD
+Node: n09 , Distribution: RUD
+Node: m_t5 , Distribution: SID
+Node: t5 , Distribution: RUD
+Node: n12 , Distribution: RUD
+Node: m_t6 , Distribution: SID
+Node: t6 , Distribution: RUD
+Node: temp1 , Distribution: NPM
+Node: n14 , Distribution: RUD
+Node: temp2 , Distribution: NPM
+Node: n15 , Distribution: RUD
+Node: temp3 , Distribution: NPM
+Node: n11 , Distribution: RUD
+Node: temp4 , Distribution: NPM
+Node: n03 , Distribution: NPM
+Node: temp5 , Distribution: RUD
+Node: n16 , Distribution: RUD
+Node: temp6 , Distribution: RUD
+Node: n17 , Distribution: NPM
+All node counts is: 30
+RUD count: 20
+SID count: 4
+CST count: 0
+NPM count: 6
+Node SMT check count: 5
+Semd time is: 127.380000ms
+Don't care time is: 75.967000ms
+SMT time is: 25.405000ms
+Total running time is: 299.711000ms

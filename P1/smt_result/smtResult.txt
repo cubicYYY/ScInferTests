@@ -1,0 +1,14 @@
+Node: n011 , Distribution: NPM
+Node: n012 , Distribution: SID
+Node: n021 , Distribution: NPM
+Node: n022 , Distribution: SID
+Node: n031 , Distribution: NPM
+Node: n032 , Distribution: SID
+All node count is: 6
+RUD count: 0
+SID count: 3
+CST count: 0
+NPM count: 3
+UKD count: 0
+Node SMT check count: 3
+Running time is : 15.977000ms

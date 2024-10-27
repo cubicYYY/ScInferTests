@@ -1,0 +1,12 @@
+Node: n011 , Distribution: UKD
+Node: n012 , Distribution: RUD
+Node: n021 , Distribution: UKD
+Node: n022 , Distribution: RUD
+Node: n031 , Distribution: UKD
+Node: n032 , Distribution: RUD
+All node count is: 6
+RUD count: 3
+SID count: 0
+CST count: 0
+UKD count: 3
+Running time is : 0.160000ms

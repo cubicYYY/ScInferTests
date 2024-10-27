@@ -1,0 +1,9 @@
+Node: n3 , Distribution: UKD
+Node: n2 , Distribution: UKD
+Node: n1 , Distribution: UKD
+All node count is: 3
+RUD count: 0
+SID count: 0
+CST count: 0
+UKD count: 3
+Running time is : 0.107000ms
